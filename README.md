@@ -4,4 +4,4 @@ Dysfunction in human cerebrovasculature contribute to pathogenesis of multiple n
 All data analysis were performed under R (version 3.6.3). R packages used for analysis are:
 Seurat (Version 3.1.1), Monocle (version 2.14.0), ClusterProfiler (version 3.14.3), CellChat (version 1.6.0), infercnv (version 1.2.1)
 
-All the code and processed data can be explored and downloaded through this repository.
+All the code can be explored and downloaded through this repository.
